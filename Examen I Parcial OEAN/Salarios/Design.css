@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(17, 206, 133);
+
+}
+
+.CalSal{
+    display: block;
+    background-color: rgb(242, 247, 245);
+    margin: 500px;
+    text-align: center;
+    height: 700px;
+    padding-top: 3%;
+}
+#salariobruto{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:250px;
+    height: 30px;
+    line-height: 100px;
+    background-color:lightgray;
+    margin-left: 348px;
+    
+}
+#deduccionINSS{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:250px;
+    height: 30px;
+    line-height: 100px;
+    background-color: lightgray;
+    margin-left: 348px;
+    
+}
+
+#salarioneto{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:250px;
+    height: 30px;
+    line-height: 100px;
+    background-color:lightgray;
+    margin-left: 348px;
+
+}
+
+#deduccionIR{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:250px;
+    height: 30px;
+    line-height: 100px;
+    background-color:lightgray;
+    margin-left: 348px;
+}
+
+#salariototal{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:250px;
+    height: 30px;
+    line-height: 100px;
+    background-color:lightgray;
+    margin-left: 348px;
+}
+.Mostrar{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
