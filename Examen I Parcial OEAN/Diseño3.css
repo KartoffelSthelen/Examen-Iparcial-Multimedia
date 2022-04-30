@@ -1,0 +1,310 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    
+  }
+  
+  .Pagina3 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+  
+    font-weight: bold;
+  }
+  
+  .Menu {
+    box-shadow: 0px 4px 10px;
+    height: 85px;
+  }
+  .Pagina3 .Encabezado .Menu {
+    position: relative;
+    width: 100%;
+    height: 15vh;
+    left: 0px;
+    top: 0px;
+  
+    background: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  }
+  
+  .aguito {
+
+    font-style: normal;
+    font-weight: 900;
+  
+    font-size: 30px;
+    line-height: 47px;
+  
+    color: #6e29a9;
+  }
+  
+  .Menu .imagenDerecha .ImagenP {
+    position: absolute;
+    left: 13.03%;
+    right: 84.33%;
+    top: 15px;
+    bottom: 97.65%;
+  }
+  
+  .Menu .imagenDerecha .Linea {
+    position: absolute;
+    width: 142px;
+    height: 3px;
+    left: 220px;
+    top: 10px;
+  }
+  
+  .Menu .imagenDerecha .TextoP {
+    position: absolute;
+    width: 142px;
+    height: 3px;
+    left: 220px;
+    top: 17px;
+  }
+  
+  .titulos ul li a {
+    text-decoration: none;
+    color: #01a1e9;
+    font-size: 14px;
+    position: absolute;
+    left: 876px;
+    top: 34px;
+    font-size: 20px;
+  }
+  
+  .titulos .AcercaDe {
+    left: 163vh;
+  }
+  
+  .titulos .Aplicacion {
+    left: 185vh;
+  }
+  
+  .titulos .Aplicacion {
+    position: absolute;
+    width: 115px;
+    height: 30px;
+    left: 188vh;
+    top: 33px;
+  
+    background: #f5f5f5;
+    border-radius: 6px;
+    text-align: center;
+    color: #6e29a9;
+  }
+  
+  nav ul li a:hover {
+    color: #ff5ea2;
+  }
+  
+  .Cuerpo h2{
+      position: absolute;
+      color: #8200FF;
+      left: 75vh;
+      top: 28vh;
+      font-weight: 900;
+      font-size: 40px;
+  }
+  
+  .Cuerpo P{
+      position: absolute;
+      color: #1B314F;
+      left: 75vh;
+      top: 45vh;
+      font-weight: 900;
+      font-size: 20px;
+  }
+  
+  #TxtSalario{
+  
+      position: absolute;
+      left: 81vh;
+      top: 55vh ;
+      width: 35vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+  }
+  
+  .Calcular{
+  
+      position: absolute;
+      left: 88vh;
+      top: 67vh ;
+      width: 20vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+      background: linear-gradient(to right,purple,purple);
+      
+  }
+  
+  .Campo1 p{
+  
+      position: absolute;
+      left: 86vh;
+      top: 78vh ;
+  }
+  
+  .Campo1 #Respuesta1{
+      position: absolute;
+      left: 81vh;
+      top: 83vh ;
+      width: 35vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+      background: linear-gradient(to right,lightgrey, lightgrey);
+      text-align: center;
+  }
+  
+  .Campo2 p{
+  
+      position: absolute;
+      left: 90vh;
+      top: 90vh ;
+  }
+  
+  .Campo2 #Respuesta2{
+      position: absolute;
+      left: 81vh;
+      top: 95vh ;
+      width: 35vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+      background: linear-gradient(to right,lightgrey, lightgrey);
+      text-align: center;
+      
+  }
+  
+  .Campo3 p{
+  
+      position: absolute;
+      left: 80vh;
+      top: 102vh ;
+  }
+  
+  .Campo3 #Respuesta3{
+      position: absolute;
+      left: 81vh;
+      top: 107vh ;
+      width: 35vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+      background: linear-gradient(to right,lightgrey, lightgrey);
+      text-align: center;
+      
+  }
+  
+  .Campo4 p{
+  
+      position: absolute;
+      left: 80vh;
+      top: 114vh ;
+  }
+  
+  .Campo4 #Respuesta4{
+      position: absolute;
+      left: 81vh;
+      top: 119vh ;
+      width: 35vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+      background: linear-gradient(to right,lightgrey, lightgrey);
+      text-align: center;
+  }
+  
+  .Campo5 p{
+  
+      position: absolute;
+      left: 84vh;
+      top: 126vh ;
+      
+  }
+  
+  .Campo5 #Respuesta5{
+      position: absolute;
+      left: 81vh;
+      top: 131vh ;
+      width: 35vh;
+      height: 4vh;
+      cursor: pointer;
+      border-radius: 5px;
+      background: linear-gradient(to right,lightgrey, lightgrey);
+      text-align: center;
+  }
+  
+  
+  .PieDePagina{
+  
+    position: relative;
+  width: 100%;
+  height: 189px;
+  left: 0px;
+  top: 130vh;
+  
+  background: #1B314F;
+  }
+  
+  .PieDePagina .aguito{
+  
+  position: absolute;
+  width: 153px;
+  height: 40px;
+  left: 251px;
+  top: 14vh;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 35px;
+  line-height: 47px;
+  
+  color: #6E29A9;
+  
+  }
+  
+  .PieDePagina .Linea{
+    position: absolute;
+    left: 250px;
+    top: 12vh;
+    
+  }
+  
+  .Linea1{
+    width: 120px;
+  }
+  
+  .lorem{
+    position: absolute;
+  width: 245px;
+  height: 40px;
+  left: 155vh;
+  top: 14vh;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 40px;
+  
+  
+  
+  color: #FFFFFF;
+  
+  }
+  
+  .PieDePagina .ImagenP{
+  
+    position: absolute;
+    left: 205px;
+    top: 14vh;
+  
+  }
+  
