@@ -52,7 +52,7 @@ overflow: hidden;
     border: 2px color black;
 } */
 
-.CDP h1{
+ h1{
     font-size: 3rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: purple;
@@ -127,8 +127,14 @@ width: 150px;
     padding: 1rem;
     color: black;
     border: 2px color solid red;
+
 }
 
+.ImgNoticias{
+    display: flex;
+    justify-content: center;
+    
+   }
 footer{
     width: 100%;
     height: 20%;
@@ -159,4 +165,14 @@ li{
 
 nav{
     float: right;
+}
+img{
+    align-items: center;
+}
+#FooterP{
+    text-align: right;
+    color: black;
+    margin-right: 100px;
+    font-size: large;
+
 }
