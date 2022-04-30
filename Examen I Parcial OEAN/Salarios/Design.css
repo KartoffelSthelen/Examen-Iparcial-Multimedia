@@ -1,14 +1,18 @@
 body{
     background-color: rgb(17, 206, 133);
+margin: 0;
+ font-family: 'Times New Roman', Times, serif;
+   
+    font-size: 18px;
 
 }
 
 .CalSal{
     display: block;
     background-color: rgb(242, 247, 245);
-    margin: 500px;
+    margin: 550px;
     text-align: center;
-    height: 1000px;
+    height: 700px;
     padding-top: 3%;
 }
 #salariobruto{
@@ -80,3 +84,78 @@ body{
      color: black;
     font-size: larger;
 }
+
+.aguito {
+
+    font-style: normal;
+    font-weight: 900;
+  
+    font-size: 30px;
+    line-height: 47px;
+  
+    color: #6e29a9;
+  }
+
+  .PieDePagina{
+  
+    position: relative;
+  width: 100%;
+  height: 189px;
+  left: 0px;
+  top: 130vh;
+  
+  background: #1B314F;
+  }
+  
+  .PieDePagina .aguito{
+  
+  position: absolute;
+  width: 153px;
+  height: 40px;
+  left: 251px;
+  top: 14vh;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 35px;
+  line-height: 47px;
+  
+  color: #6E29A9;
+  
+  }
+  
+  .PieDePagina .Linea{
+    position: absolute;
+    left: 250px;
+    top: 12vh;
+    
+  }
+  
+  .Linea1{
+    width: 120px;
+  }
+  
+  .lorem{
+    position: absolute;
+  width: 245px;
+  height: 40px;
+  left: 155vh;
+  top: 14vh;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 40px;  
+  
+  color: #FFFFFF;  
+  }
+  
+  /*.PieDePagina .ImagenP{
+  
+    position: absolute;
+    left: 205px;
+    top: 14vh;
+  
+  }*/

@@ -1,0 +1,302 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.Pagina2{
+    
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    font-weight: bold;
+}
+
+.Menu{
+    box-shadow: 0px 4px 10px;
+    height: 85px;
+}
+.Pagina2 .Encabezado .Menu{
+
+    position: relative;
+width: 100%;
+height: 15vh;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.aguito{
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+
+font-size: 30px;
+line-height: 47px;
+
+color: #6E29A9;
+
+}
+
+.Menu .imagenDerecha .ImagenP{
+
+    position: absolute;
+    left: 13.03%;
+    right: 84.33%;
+    top: 15px;
+    bottom: 97.65%;
+
+}
+
+.Menu .imagenDerecha .Linea{
+
+    position: absolute;
+    width: 142px;
+    height: 3px;
+    left: 220px;
+    top: 10px;
+
+}
+
+.Menu .imagenDerecha .TextoP{
+
+    position: absolute;
+    width: 142px;
+    height: 3px;
+    left: 220px;
+    top: 17px;
+
+}
+
+.titulos  ul li a{
+    text-decoration: none;
+    color: #01A1E9;
+    font-size: 14px;
+    position: absolute;
+left: 876px;
+top: 34px; 
+font-size: 20px;
+}
+
+
+
+.titulos .AcercaDe{
+    left: 163vh;
+
+}
+
+.titulos .Aplicacion{
+    left: 185vh;
+}
+
+.titulos .AcercaDe{
+
+    position: absolute;
+width: 115px;
+height:30px;
+left: 158vh;
+top: 34px;
+
+
+background: #F5F5F5;
+border-radius: 6px;
+text-align: center;
+color: #6E29A9;
+}
+
+nav ul li a:hover{
+    color: #ff5ea2;
+}
+
+.Cuerpo_1 h2{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 45px;
+    line-height: 75px;
+
+    
+    color: #8200FF;
+
+    position: absolute;
+    left: 25vh;
+    top: -20vh;
+
+    width: 815px;
+    
+}
+
+.imgTel{
+position: absolute;
+width:250px;
+height:240 ;
+
+left: 115vh;
+top: 44vh;
+
+}
+.Cuerpo_1 .TextoImagen{
+
+    position: absolute;
+width: 521px;
+height: 208px;
+left: 197px;
+top: 275px;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.Cuerpo_2 h2{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 45px;
+    line-height: 75px;
+   
+    
+    color: #1B314F;
+
+
+    position: absolute;
+    left: 33vh;
+    top: 80vh;
+
+    width: 815px;
+    
+}
+
+.Cuerpo_2 .TextoImagen2{
+
+    position: absolute;
+width: 124vh;
+height: 208px;
+left: 33vh;
+    top: 90vh;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.Cuerpo_3 h2{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 25px;
+    line-height: 75px;
+      
+    color: #523E97;
+
+
+    position: absolute;
+    left: 33vh;
+    top: 117vh;
+
+    width: 815px;
+    
+}
+
+.Cuerpo_3 .TextoImagen2{
+
+    position: absolute;
+width: 55vh;
+height: 208px;
+left: 37vh;
+    top: 126vh;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.PieDePagina{
+
+    position: relative;
+width: 100%;
+height: 189px;
+left: 0px;
+top: 130vh;
+
+background: #1B314F;
+}
+
+.PieDePagina .aguito{
+
+position: absolute;
+width: 153px;
+height: 40px;
+left: 251px;
+top: 14vh;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 35px;
+line-height: 47px;
+
+color: #6E29A9;
+
+}
+
+.PieDePagina .Linea{
+    position: absolute;
+    left: 250px;
+    top: 12vh;
+    
+}
+
+.Linea1{
+    width: 120px;
+}
+
+.lorem{
+    position: absolute;
+width: 245px;
+height: 40px;
+left: 155vh;
+top: 14vh;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 40px;
+
+
+color: #FFFFFF;
+
+}
+
+.PieDePagina .ImagenP{
+
+    position: absolute;
+    left: 205px;
+    top: 14vh;
+
+}

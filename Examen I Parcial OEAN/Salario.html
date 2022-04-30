@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
+        <title>Salario</title>
 
         <link rel="stylesheet" href="Salarios/Design.css">
     </head>
@@ -13,21 +13,22 @@
 
             <H1>Calcular Salario</H1>
             <h2>Ingrese su salario mensual</h2>
-            <input type="text">
+            <input id="TxtSalario" type="text">
             <br>
-            <input type="button" id="boton" value="Calcular">
+            <button class="Calcular" onclick="HacerCalculos()">Calcular</button>
+            
             <hr>
             <!----------------------------------------------------------------------------------------------->
 
             <div
                 id="Padre" class="Mostrar">
 
-                <!-- <table class="CPaneles"></table> -->
+                
                 <div>
                     <label for="">Salario Bruto Mensual</label>
                     <tr>
                         <td colspan="1">
-                            <span id="salariobruto"></span>
+                            <span id="Respuesta1"></span>
                         </td>
                     </tr>
                 </div>
@@ -74,12 +75,24 @@
 
 
                 </div>
-
-                
-              
+             
 
 
             </div>
+
+            <footer class="PieDePagina">
+                <div class="ImagenP">
+                    <img src="Salarios/CatAppears.gif" alt="P">
+                </div>
+                <div class="TextoP">
+                    <p class="aguito">AGUITO</p>
+                </div>
+                <!-- <div class="Linea"><img src="Image/Rectangle 2.svg" alt="P" class="Linea1"></div> -->
+                <div class="TextoP">
+                    <p class="lorem">Lorem ipsum dolor sit amet</p>
+                </div>
+
+            </footer>
         </body>
     </body>
 </html>
